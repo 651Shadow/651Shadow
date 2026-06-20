@@ -16,6 +16,7 @@ I like turning rough ideas into working software, then tightening the parts that
 
 ## Featured public work
 - **[Currency-Converter-Project](https://github.com/651Shadow/Currency-Converter-Project)** — Tkinter desktop app with currency + unit conversion, offline cache fallback, CLI verification path, tests, and demo assets
+- **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript serverless API that converts public pages or raw HTML into cleaner Markdown with safer fetch validation
 
 ## What I’m improving right now
 - safer fetch pipelines and request validation for small APIs
