@@ -1,32 +1,39 @@
 # Shadow
 
-Cybersecurity student focused on Python automation, small APIs, and practical developer tools.
+Cybersecurity student and builder focused on Python automation, TypeScript APIs, and small developer tools.
+
+I like turning rough ideas into working software, then tightening the parts that matter for real use: tests, docs, safety checks, and cleaner UX.
+
+## What I’m looking for
+- software engineering internships
+- freelance work involving Python automation, internal tools, scraping pipelines, or small APIs
 
 ## What I build
-- Python automation scripts for repetitive workflows
-- API projects for scraping, metadata extraction, and AI-ready preprocessing
-- Desktop and web utilities that turn coursework into reusable tools
+- Python automation for repetitive workflows
+- API projects for content extraction, metadata processing, and AI-ready preprocessing
+- desktop and web tools that turn coursework or experiments into reusable software
+- small products that can be hardened into portfolio-quality assets
 
-## Current focus
-- hardening small API products so they are safe to publish
-- improving testing, documentation, and portfolio quality
-- turning repeated automation work into cleaner reusable services
+## Featured public work
+- **[Currency-Converter-Project](https://github.com/651Shadow/Currency-Converter-Project)** — Tkinter desktop app with currency + unit conversion, offline cache fallback, CLI verification path, tests, and demo assets
 
-## Selected projects
-- **Currency-Converter-Project** — Tkinter desktop converter for currency and common unit systems
-- **DATASET--CREATOR** *(cleanup in progress)* — chat dataset preprocessing and anonymization pipeline
-- **web-to-markdown-api** *(private while hardening)* — converts URLs or raw HTML into cleaner Markdown for LLM pipelines
-- **Link-Preview-Metadata-API** *(private while hardening)* — extracts preview metadata with validation and fallback logic
+## What I’m improving right now
+- safer fetch pipelines and request validation for small APIs
+- better tests and documentation for portfolio projects
+- turning one-off scripts into reusable tools and service ideas
 
-## Skills
+## Core skills
 - Python
 - TypeScript
 - REST APIs
 - scraping and content processing
-- testing and repo cleanup
+- testing and debugging
 - Git and GitHub workflows
 
-## Currently improving
-- SSRF protections and safer fetch pipelines
-- repo documentation and examples
-- converting project experiments into portfolio-ready assets
+## Working style
+- build first, polish second
+- prefer small working systems over big unfinished ones
+- care about verification, not just code that "looks done"
+
+## Notes
+Some current projects are still private while I finish hardening, cleanup, and documentation. I’d rather publish fewer strong repos than many messy ones.
