@@ -1,40 +1,39 @@
 # Shadow
 
-Cybersecurity student and builder focused on Python automation, TypeScript APIs, and small developer tools.
+Cybersecurity student and developer building practical Python, TypeScript, and API-driven tools.
 
-I like turning rough ideas into working software, then tightening the parts that matter for real use: tests, docs, safety checks, and cleaner UX.
+I turn ideas into working software, then focus on the parts that make it usable in practice: validation, security, testing, documentation, and clean delivery.
 
-## What I’m looking for
-- software engineering internships
-- freelance work involving Python automation, internal tools, scraping pipelines, or small APIs
+## Open to
 
-## What I build
-- Python automation for repetitive workflows
-- API projects for content extraction, metadata processing, and AI-ready preprocessing
-- desktop and web tools that turn coursework or experiments into reusable software
-- small products that can be hardened into portfolio-quality assets
+- Junior software and cybersecurity internships
+- Remote Python automation, API, and web-development work
+- AI-data and AI-evaluation projects where technical judgment matters
 
-## Featured public work
-- **[Currency-Converter-Project](https://github.com/651Shadow/Currency-Converter-Project)** — Tkinter desktop app with currency + unit conversion, offline cache fallback, CLI verification path, tests, and demo assets
-- **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript serverless API that converts public pages or raw HTML into cleaner Markdown with safer fetch validation
+## Selected work
 
-## What I’m improving right now
-- safer fetch pipelines and request validation for small APIs
-- better tests and documentation for portfolio projects
-- turning one-off scripts into reusable tools and service ideas
+- **[The Glitch Store](https://theglitchstore.com)** — Live prepaid-credit API marketplace built with Next.js, React, Supabase, Tailwind CSS, and a VPS deployment workflow. I conducted a self-directed security audit and remediated the issues found, including request-validation and race-condition risks.
+- **[Taza Produce](https://github.com/651Shadow/taza-produce)** — Production-style restaurant website built in Next.js and TypeScript, with responsive UX, real content assets, SEO foundations, and Vercel deployment.
+- **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript serverless API that converts public pages or raw HTML into cleaner Markdown with safer fetch validation.
+- **[Currency-Converter-Project](https://github.com/651Shadow/Currency-Converter-Project)** — Tkinter desktop app with currency and unit conversion, offline-cache fallback, CLI verification, tests, and demo assets.
 
 ## Core skills
-- Python
-- TypeScript
-- REST APIs
-- scraping and content processing
-- testing and debugging
-- Git and GitHub workflows
+
+- Python, JavaScript, TypeScript, SQL, and basic Go
+- Next.js, React, REST APIs, Supabase, and Vercel
+- Automation, web scraping, Playwright, Selenium, and FFmpeg
+- Security auditing, vulnerability assessment, OWASP-minded development
+- Testing, debugging, Git, GitHub, and deployment workflows
+
+## What I build
+
+- Automation that removes repetitive work
+- Secure, small APIs and developer tools
+- AI-assisted workflows with clear validation and human review points
+- Web applications that can move from prototype to a polished portfolio asset
 
 ## Working style
-- build first, polish second
-- prefer small working systems over big unfinished ones
-- care about verification, not just code that "looks done"
 
-## Notes
-Some current projects are still private while I finish hardening, cleanup, and documentation. I’d rather publish fewer strong repos than many messy ones.
+I prefer small, verifiable systems over unfinished big ideas. I document what matters, test assumptions, and improve the security and reliability of what I ship.
+
+Some projects remain private while I complete cleanup and documentation. I publish work when it is ready to represent my standards.
