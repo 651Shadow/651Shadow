@@ -15,7 +15,7 @@ I turn ideas into working software, then focus on the parts that make it usable 
 - **[The Glitch Store](https://theglitchstore.com)** — Live prepaid-credit API marketplace built with Next.js, React, Supabase, Tailwind CSS, and a VPS deployment workflow. I conducted a self-directed security audit and remediated the issues found, including request-validation and race-condition risks.
 - **[Taza Produce](https://github.com/651Shadow/taza-produce)** — Production-style restaurant website built in Next.js and TypeScript, with responsive UX, real content assets, SEO foundations, and Vercel deployment.
 - **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript serverless API that converts public pages or raw HTML into cleaner Markdown with safer fetch validation.
-- **[Currency-Converter-Project](https://github.com/651Shadow/Currency-Converter-Project)** — Tkinter desktop app with currency and unit conversion, offline-cache fallback, CLI verification, tests, and demo assets.
+- **[SaaS Security Snapshot sample](https://github.com/651Shadow/saas-security-snapshot-sample)** - Sanitized sample report for an authorization-gated application-security and production-readiness review, with prioritized findings, reproduction context, remediation guidance, and delivery boundaries.
 
 ## Core skills
 
