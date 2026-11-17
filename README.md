@@ -1,39 +1,37 @@
-# Shadow
+# Abdelrahman Hamida (`@651Shadow`)
 
-Cybersecurity student and developer building practical Python, TypeScript, and API-driven tools.
+Cybersecurity & Network Security student at **Elsewedy University of Technology (SUTech)** (Class of 2029) and full-stack / Python automation engineer based in Alexandria, Egypt.
 
-I turn ideas into working software, then focus on the parts that make it usable in practice: validation, security, testing, documentation, and clean delivery.
+I build web applications, APIs, and automation pipelines—then focus on the parts that make software reliable in production: authorization boundaries, input validation, security testing, and clean delivery.
+
+🌐 **Portfolio:** [651shadow.github.io](https://651shadow.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/abdelrhman-hamida](https://www.linkedin.com/in/abdelrhman-hamida/)  
+🐦 **X / Twitter:** [@abdomhamida](https://x.com/abdomhamida)  
+⚡ **Contra:** [contra.com/abdelrahman_hamida](https://contra.com/abdelrahman_hamida)  
+🏆 **Devpost:** [devpost.com/abdelrhman-dado123](https://devpost.com/abdelrhman-dado123)  
+✉️ **Email:** [abdelrhman.dado123@gmail.com](mailto:abdelrhman.dado123@gmail.com)
+
+---
 
 ## Open to
 
-- Junior software and cybersecurity internships
-- Remote Python automation, API, and web-development work
-- AI-data and AI-evaluation projects where technical judgment matters
+- Cybersecurity & Software Engineering internships
+- Fixed-scope SaaS Security & Production-Readiness Reviews (Next.js + Supabase)
+- Remote Python automation, web scraping, API, and full-stack web development
 
-## Selected work
+## Selected Work
 
-- **[The Glitch Store](https://theglitchstore.com)** — Live prepaid-credit API marketplace built with Next.js, React, Supabase, Tailwind CSS, and a VPS deployment workflow. I conducted a self-directed security audit and remediated the issues found, including request-validation and race-condition risks.
-- **[Taza Produce](https://github.com/651Shadow/taza-produce)** — Production-style restaurant website built in Next.js and TypeScript, with responsive UX, real content assets, SEO foundations, and Vercel deployment.
-- **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript serverless API that converts public pages or raw HTML into cleaner Markdown with safer fetch validation.
-- **[SaaS Security Snapshot sample](https://github.com/651Shadow/saas-security-snapshot-sample)** - Sanitized sample report for an authorization-gated application-security and production-readiness review, with prioritized findings, reproduction context, remediation guidance, and delivery boundaries.
+- **[The Glitch Store](https://theglitchstore.com)** — Live prepaid-credit API marketplace built with Next.js, React, Supabase, and Tailwind CSS. Conducted a self-directed security audit covering request validation, atomic credit-reservation race conditions, SSRF proxy defenses, Argon2id key hashing, and AES-256-GCM credential encryption.
+- **[SaaS Security Snapshot Sample](https://github.com/651Shadow/saas-security-snapshot-sample)** & **[Security Review Sample](https://github.com/651Shadow/security-review-sample)** — Sanitized deliverables from Next.js + Supabase application-security and production-readiness reviews (15 prioritized findings across RLS, SSRF, XSS, and credit ledgers).
+- **[University Department Network with Guest Wi-Fi & Secure VLANs](https://github.com/651Shadow/University-Department-Network-with-Guest-Wi-Fi-Secure-VLANs)** — Segmented enterprise Cisco Packet Tracer 9.0.1 topology (`FACULTY`, `STUDENTS`, `ADMIN`, `MANAGEMENT`, isolated `GUEST`) with inter-VLAN ACLs, NAT, NetFlow v9, and Syslog telemetry.
+- **[web-to-markdown-api](https://github.com/651Shadow/web-to-markdown-api)** — TypeScript/Vercel serverless API converting public web pages or raw HTML into clean Markdown for LLM/RAG pipelines with SSRF/private-network blocking, payload caps, and rate limiting.
+- **[Glitch Labs](https://github.com/651Shadow/glitch-labs)** — React 18 + TypeScript + Vite digital storefront and client-side Markdown blog.
+- **[Taza Produce](https://github.com/651Shadow/taza-produce)** — Responsive Next.js 16 + TypeScript website built to WCAG 2.2 AA accessibility standards with light/dark semantic tokens and rate-limited contact handling.
+- **[Currency Converter Project](https://github.com/651Shadow/Currency-Converter-Project)** — Python Tkinter desktop currency/unit converter with offline fallback, CLI verification, and tests.
 
-## Core skills
+## Core Skills
 
-- Python, JavaScript, TypeScript, SQL, and basic Go
-- Next.js, React, REST APIs, Supabase, and Vercel
-- Automation, web scraping, Playwright, Selenium, and FFmpeg
-- Security auditing, vulnerability assessment, OWASP-minded development
-- Testing, debugging, Git, GitHub, and deployment workflows
-
-## What I build
-
-- Automation that removes repetitive work
-- Secure, small APIs and developer tools
-- AI-assisted workflows with clear validation and human review points
-- Web applications that can move from prototype to a polished portfolio asset
-
-## Working style
-
-I prefer small, verifiable systems over unfinished big ideas. I document what matters, test assumptions, and improve the security and reliability of what I ship.
-
-Some projects remain private while I complete cleanup and documentation. I publish work when it is ready to represent my standards.
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Web & Backend:** Next.js, React, NestJS, Node.js, Supabase, REST APIs, Tailwind CSS, Vercel
+- **Security & Networking:** OWASP Top 10, AppSec & RLS Auditing, SSRF/XSS/Race Conditions, Cisco Packet Tracer, VLANs, ACLs, NAT
+- **Automation & QA:** Playwright, Selenium, httpx, BeautifulSoup, Streamlit, openpyxl, pytest, Git & GitHub
